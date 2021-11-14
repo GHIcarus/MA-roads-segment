@@ -1,2 +1,5 @@
 # MA-roads-segment
-Code to perform segmentation on the Massachusetts roads dataset
+Code to detect roads in the Massachusetts roads dataset
+
+Dataset:
+https://www.kaggle.com/insaff/massachusetts-roads-dataset
